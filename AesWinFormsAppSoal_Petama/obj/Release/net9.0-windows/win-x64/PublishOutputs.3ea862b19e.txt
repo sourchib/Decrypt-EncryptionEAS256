@@ -1,0 +1,2 @@
+C:\Users\LENOVO\AesDecryptDemo\AesWinFormsApp\bin\Release\net9.0-windows\win-x64\publish\AesWinFormsApp.pdb
+C:\Users\LENOVO\AesDecryptDemo\AesWinFormsApp\bin\Release\net9.0-windows\win-x64\publish\AesWinFormsApp.exe
