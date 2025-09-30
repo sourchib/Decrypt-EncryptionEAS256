@@ -35,9 +35,15 @@ Di dalamnya terdapat dua aplikasi WinForms yang digunakan untuk menjawab soal/la
 📌 Isi Proyek
 AESDecryptWinFormsSoal_Kedua
 Aplikasi WinForms untuk percobaan dekripsi AES (soal kedua).
+<img width="774" height="581" alt="1 1" src="https://github.com/user-attachments/assets/8c36a946-a780-4a34-bba1-a67c28fd746e" />
 
 AesWinFormsAppSoal_Petama
 Aplikasi WinForms untuk percobaan dekripsi AES (soal pertama).
+<img width="586" height="395" alt="1 2" src="https://github.com/user-attachments/assets/b5edc05f-b984-43f7-ad62-9007a2105da3" />
+<img width="589" height="395" alt="1 1" src="https://github.com/user-attachments/assets/065823d1-10cb-453c-82a1-9d5ad2e4cb96" />
+<img width="580" height="395" alt="1 4" src="https://github.com/user-attachments/assets/baeafa9c-e5bd-48da-a19f-a41a4b24bbd2" />
+<img width="590" height="399" alt="1 3" src="https://github.com/user-attachments/assets/e7f54770-3597-4fb1-bf56-284efbafe666" />
+
 
 📜 Lisensi
 Proyek ini dibuat untuk tujuan pembelajaran.
